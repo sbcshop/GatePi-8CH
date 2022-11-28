@@ -22,4 +22,4 @@ Raspberry Pi RP2040 Microcontroller Chip is the debut microcontroller from Raspb
 
 
 # Relays
-The IoT-Pi 4ch board has 4 relay modules for connecting the four different appliances or any devices you want to control through our IoT-Pi board. In IoT-Pi 6ch has six relays for controlling the six outputs.
+The GatePi 8channel board is consist of 8 relay modules for connecting the four different appliances or any devices you want to control through our GatePi board.
