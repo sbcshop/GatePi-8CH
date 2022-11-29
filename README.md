@@ -36,4 +36,7 @@ For the instruction manual of GatePi please click on the link : https://github.c
 
 ## Working With GatePi 8Ch
 
+For working with this board you will need two or more than two loara product, it can be same products or may be our other LoRa products to establish the communication between them.
+
+## Our Other LoRa Products
 
