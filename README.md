@@ -40,3 +40,8 @@ For working with this board you will need two or more than two loara product, it
 
 ## Our Other LoRa Products
 
+* GatePi 4Channel
+* GatePi 8channel*
+* RangePi(USB Dongle)
+* LoRA HAT for RPi
+* PICO LoRa Expansion
