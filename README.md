@@ -23,3 +23,8 @@ Raspberry Pi RP2040 Microcontroller Chip is the debut microcontroller from Raspb
 
 # Relays
 The GatePi 8channel board is consist of 8 relay modules for connecting the four different appliances or any devices you want to control through our GatePi board.
+
+# USB Port, and Boot Button
+USB port is used for debugging python programmes in our this board, and for powering up this board. Boot button is used to make GatePi 8Ch board in Boot mode for updating firmware to it.
+
+
