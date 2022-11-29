@@ -38,8 +38,8 @@ USB port is used for debugging python programmes in our this board, and for powe
 
 For working with this board you will need two or more than two loara product, it can be same products or may be our other LoRa products to establish the communication between them.
 
-* **The "main.py" is the reciever example code for controlling 8 relays. This code should be saved in RP2040 of GatePi 8ch so that when it recieve data from transmitter it will operate realys one by one according to data recieved at this end.
-* **The 
+* ***The "main.py" is the reciever example code for controlling 8 relays. This code should be saved in RP2040 of GatePi 8ch so that when it recieve data from transmitter it will operate realys one by one according to data recieved at this end.
+* ***The 
 
 ## Our Other LoRa Products
 
