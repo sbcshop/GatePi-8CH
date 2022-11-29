@@ -26,4 +26,14 @@ The GatePi 8channel board is consist of 8 relay modules for connecting the four 
 # USB Port, and Boot Button
 USB port is used for debugging python programmes in our this board, and for powering up this board. Boot button is used to make GatePi 8Ch board in Boot mode for updating firmware to it.
 
+# Instruction Manual of GatePi
+For the instruction manual of GatePi please click on the link : https://github.com/sbcshop/GatePi-4CH/blob/main/GatePi%20instruction%20manual.pdf and download it. 
+
+   * In this manual you will see:
+      * how to setup GatePi 
+      * How to use "LoRa Home Automation Application(App)
+      
+
+# Working With GatePi 8Ch
+
 
