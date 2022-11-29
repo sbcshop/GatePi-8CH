@@ -38,11 +38,11 @@ USB port is used for debugging python programmes in our this board, and for powe
 
 For working with this board you will need two or more than two loara product, it can be same products or may be our other LoRa products to establish the communication between them.
 
-* ***The "main.py" is the reciever example code for controlling 8 relays. This code should be saved in RP2040 of GatePi 8ch so that when it recieve data from transmitter it will operate realys one by one according to data recieved at this end.
+* -->The "main.py" is the reciever example code for controlling 8 relays. This code should be saved in RP2040 of GatePi 8ch so that when it recieve data from transmitter it will operate realys one by one according to data recieved at this end.
 
-* ***The "Transmit.py" file is the code for sending the data for the purpose of controlling relays of GatePi. This code can be saved in any of our LoRa devices(such as RangePi) to send data. It will send "1relay1" at a fix interval of time to operate "relay-1" and so on for other relays, you can replace this by any keywords you want but this should be change in reciever code also.
+* -->The "Transmit.py" file is the code for sending the data for the purpose of controlling relays of GatePi. This code can be saved in any of our LoRa devices(such as RangePi) to send data. It will send "1relay1" at a fix interval of time to operate "relay-1" and so on for other relays, you can replace this by any keywords you want but this should be change in reciever code also.
 
-* *** You can also control the GatePi with the help of raspberry pi GUI, or you can also control through pc via GUI
+* -->You can also control the GatePi with the help of raspberry pi GUI, or you can also control through your pc via GUI
 
 ## Our Other LoRa Products
 
