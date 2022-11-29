@@ -42,9 +42,10 @@ For working with this board you will need two or more than two loara product, it
 
 * -->The "Transmit.py" file is the code for sending the data for the purpose of controlling relays of GatePi. This code can be saved in any of our LoRa devices(such as RangePi) to send data. It will send "1relay1" at a fix interval of time to operate "relay-1" and so on for other relays, you can replace this by any keywords you want but this should be change in reciever code also.
 
-* -->You can also control the GatePi with the help of raspberry pi GUI, or you can also control through your pc via GUI. For this uplaod the "rangepi__transmitter_app_control.py" code as transmitter and Setup the GUI in your computer system by plugin this transmitter device.
+* -->You can also control the GatePi with the help of raspberry pi GUI, or you can also control through your pc via GUI. For this uplaod the "rangepi__transmitter_app_control.py" code as transmitter and Setup the GUI in your computer system by plugin this transmitter device. Now, select COM port and connect it.
 
 In windows, you can use PICO Lora Expansion, Pi Lora Hat and RangePi as transmitter
+
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/img7.JPG" />
 
 ## Our Other LoRa Products
