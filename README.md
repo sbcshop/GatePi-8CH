@@ -46,5 +46,18 @@ For working with this board you will need two or more than two loara product, it
 * LoRA HAT for RPi
 * PICO LoRa Expansion
 
-You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above.
+You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above. For working with our other products please follow the below link:
+
+* GatePi 4Channel
+https://github.com/sbcshop/GatePi-4CH
+
+* GatePi 8channel* (Itself)
+* RangePi
+https://github.com/sbcshop/RangePi
+* LoRA HAT for RPi
+https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
+* PICO LoRa Expansion
+https://github.com/sbcshop/PICO-LORA-EXPANSION
+
+
 
