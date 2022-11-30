@@ -43,7 +43,7 @@ For working with this board you will need two or more than two loara product, it
 
 * -->The "Transmit.py" file is the code for sending the data for the purpose of controlling relays of GatePi. This code can be saved in any of our LoRa devices(such as RangePi) to send data. It will send "1relay1" at a fix interval of time to operate "relay-1" and so on for other relays, you can replace this by any keywords you want but this should be change in reciever code also.
 
-* -->You can also control the GatePi with the help of raspberry pi GUI, or you can also control through your pc via GUI. For this uplaod the "rangepi__transmitter_app_control.py" code as transmitter and Setup the GUI in your computer system by plugin this transmitter device. Now, select COM port and connect it.
+* -->You can also control the GatePi with the help of GUI, or you can also control through your pc via GUI. For this uplaod the "rangepi__transmitter_app_control.py" code as transmitter and Setup the GUI in your computer system by plugin this transmitter device. Now, select COM port and connect it.
 
 In windows, you can use PICO Lora Expansion, Pi Lora Hat and RangePi as transmitter
 
@@ -72,3 +72,38 @@ https://github.com/sbcshop/PICO-LORA-EXPANSION
 
 
 ### Note: Every time you choose the mode of transmit device the transmit code of that device should be run in it and reciever code will always same.
+
+ ## Lora GUI Configuration (run with the help of GUI)
+ For this, you need to use Lora onboard USB 
+ <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_18.jpg" />
+ 
+ Go to the Lora GUI folder, and run the LORA_GUI.py file. from this file, you can configure the Lora and you are able to transmit, receive the data  (eg: baud rate, channel etc)
+ Follow the steps to configure the Lora module:-
+
+ ### Step 1: Setup lora in configuration mode, for this you need to short M0 and open M1 as shown in figure
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_16.jpg" />
+ 
+### Step 2: Open lora GUI 
+ <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_1.png" />
+
+### Step 2: set the COM Port and Baudrate
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_2.png" />
+ 
+### Step 3: For COM Port go to Device Manager, before this first you need to connect the Lora module via USB cable 
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_7.png" />
+ 
+### Step 3: Write the right COM Port in the GUI,then press connect button
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_8.png" />
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_9.png" />
+
+### Step 3: Press read button to see the device configuration which lora already have
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img__10.png" />
+ 
+### Step 3: Write the values which you need to configure, for eg: i configure channel and baudrate, after that press write button
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_13.png" />
+ 
+### Step 3: Restart the GUI, set baudrate and port, then connect and press read button 
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_14.png" />
+  <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_15.png" />
+  
+  
