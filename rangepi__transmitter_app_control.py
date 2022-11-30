@@ -37,7 +37,7 @@ def info():
 info()
 
 while True:
-    n = input()
+    n = input("Enter the message = ")
     lora.write(n)#send data
     tft.text(font,n, 10,60,st7789.YELLOW)
     utime.sleep(0.2)#wait 200ms
