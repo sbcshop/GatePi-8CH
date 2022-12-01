@@ -25,6 +25,9 @@ The GatePi 8channel board is consist of 8 relay modules for connecting the four 
 ## USB Port, and Boot Button
 USB port is used for debugging python programmes in our this board, and for powering up this board. Boot button is used to make GatePi 8Ch board in Boot mode for updating firmware to it.
 
+## DIP Switch
+It is four way slide switch used select direct cummunication with LoRa module or communication through RP2040 via micro-USB. The 1 and 2 should have in "ON" postion, 3 and 4 should be in "OFF" position for working with our Example codes.
+
 ## Instruction Manual of GatePi
 * For the instruction manual of GatePi please click on the link : https://github.com/sbcshop/GatePi-4CH/blob/main/GatePi%20instruction%20manual.pdf and download it. 
 
