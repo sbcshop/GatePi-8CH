@@ -11,13 +11,12 @@ The 8-Channel GatePi Relay Board based on LoRa™ and RP2040 MCU is a low-power 
 * Supports Multiple frequency bands such as(433MHz, 868MHz, 915MHz)
 
 ## Hardware Specifications
-
 <img src ="https://github.com/sbcshop/GatePi-8CH/blob/main/images/Gate.%20pi%208.png" />
 
 ## RP2040
 Raspberry Pi RP2040 Microcontroller Chip is the debut microcontroller from Raspberry Pi. It brings high performance, low cost, and ease of use to the microcontroller space. The RP2040 has a large on-chip memory, symmetric dual-core processor complex, deterministic bus fabric, and rich peripheral set. It's augmented with a unique Programmable I/O (PIO) subsystem and provides unrivaled power and flexibility.
 
-## LoRa Module(E22-400T22S)
+## LoRa Module
 LoRa stands for Long Range Radio and is mainly targeted for M2M and IoT networks. This technology will enable public or multi-tenant networks to connect a number of applications running on the same network. E22-400T22S1B is a wireless serial port module (UART) based on SEMTECH's SX1268 RF chip. It has multiple transmission modes,working in the (410.125MHz~493.125MHz) frequency band (default 433.125MHz), LoRa spread spectrum technology, TTL level output,compatible with 3.3V and 5V IO port.
 
 ## Relays
