@@ -12,7 +12,7 @@ The 8-Channel GatePi Relay Board based on LoRa™ and RP2040 MCU is a low-power 
 
 ## Hardware Specifications
 
-<img src ="" />
+<img src ="https://github.com/sbcshop/GatePi-8CH/blob/main/images/Gate.%20pi%208.png" />
 
 ## RP2040
 Raspberry Pi RP2040 Microcontroller Chip is the debut microcontroller from Raspberry Pi. It brings high performance, low cost, and ease of use to the microcontroller space. The RP2040 has a large on-chip memory, symmetric dual-core processor complex, deterministic bus fabric, and rich peripheral set. It's augmented with a unique Programmable I/O (PIO) subsystem and provides unrivaled power and flexibility.
