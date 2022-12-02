@@ -49,7 +49,7 @@ flag_8=0;
 
 
 while True:
-    data_Read = lora.readline()#read data comming from other pico lora expansion
+    data_Read = lora.read()#read data comming from other pico lora expansion
     print(data_Read)
     if data_Read is not None and "1relay1" in data_Read:
       #ones, turn led on!
